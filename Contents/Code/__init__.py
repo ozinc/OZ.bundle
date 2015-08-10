@@ -1,19 +1,19 @@
 import urllib, urllib2, base64
 
 # Const
-VERSION  = '0.0.1'
+VERSION  = '2.0.1'
 ART      = 'art-default.png'
 ICON     = 'icon-default.png'
 PREFIX   = '/video/oz-eon'
 HOST     = 'core.oz.com'
 WAYPOINT = 'https://'+HOST+'/'
-AGENT    = 'OZ-Eon.bundle '+VERSION+' (Plex Media Server)'
+AGENT    = 'OZ2.bundle '+VERSION+' (Plex Media Server)'
 
 
 ####################################################################################################
 def Start():
 
-  Log('Starting OZ Eon v%s', VERSION)
+  Log('Starting OZ v%s', VERSION)
   ObjectContainer.title1 = 'OZ Eon'
 
   if 'access_token' not in Dict:
