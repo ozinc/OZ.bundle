@@ -1,7 +1,7 @@
-OZ2.bundle
+OZ.bundle
 =============
 
-OZ2 TV bundle for Plex Media Server
+OZ TV bundle for Plex Media Server
 
  - Works with PlexConnect's Apple TV player
 
