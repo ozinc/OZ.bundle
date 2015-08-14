@@ -1,11 +1,11 @@
 import urllib, urllib2, base64
 
 # Const
-NAME     = 'OZ2.bundle'
+NAME     = 'OZ.bundle'
 VERSION  = '2.0.1'
 ART      = 'art-default.jpg'
 ICON     = 'icon-default.png'
-PREFIX   = '/video/oz2'
+PREFIX   = '/video/oz'
 HOST     = 'core.oz.com'
 WAYPOINT = 'https://'+HOST+'/'
 AGENT    = NAME+' '+VERSION+' (Plex Media Server)'
