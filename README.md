@@ -4,7 +4,9 @@ OZ.bundle
 OZ TV bundle for Plex Media Server
 
  - Works with PlexConnect's Apple TV player
-
+ - Works with Safari
+ - Works in Android and iOS
+ - Works in Samsung Smart TV
 
 Installation
 ------------
@@ -15,4 +17,4 @@ Installation
 Known bugs
 ----------
 
-* Does not work in Web Player because of AES encryption
+* Does not work in Chrome Web Player because of AES encryption
